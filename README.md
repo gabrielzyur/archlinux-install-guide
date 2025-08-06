@@ -152,7 +152,7 @@ poweroff ou reboot    # Desliga ou reinicia o computador
 ```
 
 ### ‼️ IMPORTANTE:
- - Remova o pendrive USB após o desligar ou reiniciar o computador
+ - Remova o pendrive USB após desligar ou reiniciar o computador
  
 <div align="center">
 
