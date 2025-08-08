@@ -161,3 +161,7 @@ poweroff ou reboot    # Desliga ou reinicia o computador
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" width="600">
 
 </div>
+
+## Licença
+
+[![License: MIT] Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE.md) para detalhes.
