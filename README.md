@@ -164,4 +164,4 @@ poweroff ou reboot    # Desliga ou reinicia o computador
 
 ## Licença
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE.md) para detalhes.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE.md) para detalhes.
