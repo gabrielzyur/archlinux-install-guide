@@ -158,8 +158,6 @@ poweroff ou reboot    # Desliga ou reinicia o computador
 
 ## ✨ **Parabéns, bem-vindo ao mundo Arch Linux!** ✨
 
-<img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" width="600">
-
 </div>
 
 ## Licença
